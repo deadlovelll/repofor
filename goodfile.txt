@@ -1,1 +1,2 @@
 goodfileQt
+This file eas modified locally 
